@@ -1,7 +1,7 @@
 Perl-module to ease the interaction with my database.
 
-WARNING: May be of very limited use for others! The main reasin for putting it 
-online was taht an other project depends on this module.
+WARNING: May be of very limited use for others! The main reason for putting it 
+online was that an other project depends on this module.
 
 If you still want to use it: 
 Read the pod inside of the code and the comments in DBToolsCfg-TEMPLATE.pm
